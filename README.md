@@ -81,4 +81,4 @@ Never upload your API key, `secrets.toml` or any `.db` file.
 | "Gemini rejected the request" | The key is wrong or not enabled |
 | `503 UNAVAILABLE` / high demand | Temporary. The app retries and uses a backup model; try again in a minute |
 | Locked out after failed logins | Wait 5 minutes, or ask an admin to help |
-| Demo data came back | The cloud storage reset; see "Data persistence" |# -AI-Student-Management-System
+| Demo data came back | The cloud storage reset; see "Data persistence" |
